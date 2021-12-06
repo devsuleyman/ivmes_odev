@@ -1,0 +1,2 @@
+# ivmes_odev
+İvmes 
